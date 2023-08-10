@@ -1,6 +1,6 @@
 [이고잉님_원본_링크](https://gist.github.com/egoing/b62aa16573dd5c7c5da51fd429a5faa2)
 
-# command
+# command 실행
 
 ```bash
 docker network create wordpress_net       # docker-compose.yml 자동 생성
@@ -34,7 +34,12 @@ docker \
 wordpress:latest                              # services:app:
 ```
 
-# docker-compose.yml
+# docker-compose.yml 실행
+```bash
+$ docker-compose up # docker-compose file 실행 -> 내부 network, services container 등록 및 네트워크 등록
+$ docker-compose dowmn # docker-compose 실행중인 container network 제거
+```
+
 ```yml
 version: "3.7"
 
