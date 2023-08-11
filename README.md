@@ -1,4 +1,4 @@
-[이고잉님 강의 주소](https://www.youtube.com/watch?v=EK6iYRCIjYs&t=2s)
+[이고잉님 강의 주소](https://www.youtube.com/watch?v=EK6iYRCIjYs&t=2s)  
 [이고잉님 실행스크립트 원본 링크](https://gist.github.com/egoing/b62aa16573dd5c7c5da51fd429a5faa2)
 
 # command 실행
